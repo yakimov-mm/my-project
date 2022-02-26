@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Студия",
+      "housingComplexName": "ЖК ZNAK",
+      "planlink": "Ссылка на планировку",
+      "photos": "kv-item.png",
+      "sameLayoutFlatCount": "12",
+      "minPrice": "3",
+      "area": 27,
+      "balkon": false
+    },
+    {
+      "id": "2",
+      "name": "Студия2",
+      "housingComplexName": "ЖК ZNAK2",
+      "planlink": "Ссылка на планировку",
+      "photos": "kv-item.png",
+      "sameLayoutFlatCount": "12",
+      "minPrice": 2.3,
+      "area": 60,
+      "balkon": false
+    },
+    {
+      "id": "3",
+      "name": "Студия",
+      "housingComplexName": "ЖК ZNAK",
+      "planlink": "Ссылка на планировку",
+      "photos": "kv-item.png",
+      "sameLayoutFlatCount": "12",
+      "minPrice": 1.2,
+      "area": 75,
+      "balkon": true
+    }
+  ]
+}
